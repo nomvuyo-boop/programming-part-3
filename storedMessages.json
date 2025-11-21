@@ -1,0 +1,32 @@
+[
+  {
+    "messageId": "MSG1",
+    "recipient": "+27834557896",
+    "message": "Did you get the cake?",
+    "flag": "sent"
+  },
+  {
+    "messageId": "MSG2",
+    "recipient": "+27838884567",
+    "message": "Where are you? You are late! I have asked you to be on time.",
+    "flag": "stored"
+  },
+  {
+    "messageId": "MSG3",
+    "recipient": "+27834484567",
+    "message": "Yohoooo, I am at your gate.",
+    "flag": "disregard"
+  },
+  {
+    "messageId": "MSG4",
+    "recipient": "0838884567",
+    "message": "It is dinner time!.",
+    "flag": "sent"
+  }
+  {
+    "messageId": "MSG5",
+    "recipient":"+27838884567",
+    "message": "Ok, I am leaving without you.",
+    "flag": "stored"
+  }
+]
